@@ -20,10 +20,7 @@ To use the Expression Evaluator in your project, follow these steps:
 ## Clone the repository:
 
 bash
-git clone https://github.com/yourusername/expression-evaluator.git
-Include the necessary header files and source code in your C++ project.
-
-Use the provided API to parse and evaluate expressions in your application.
+git clone https://github.com/AsifAli78/expression-evaluator.git
 
 Usage
 cpp
@@ -51,5 +48,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 For questions or feedback, feel free to contact the project maintainer:
 
-## Email: your@email.com
+## Email: anon.mous4200@gmail.com
 ## GitHub: https://github.com/AsifAli78
